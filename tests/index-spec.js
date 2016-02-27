@@ -1,5 +1,5 @@
 var expect = require('expect.js');
-var $ = require('jquery');
+var $ = require('nd-jquery');
 var Position = require('../index');
 
 /*globals describe,it,beforeEach,afterEach*/

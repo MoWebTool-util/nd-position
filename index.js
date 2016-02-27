@@ -14,7 +14,7 @@
 // 去除 IE6 支持
 // jQuery 升级到 1.11.1
 
-var $ = require('jquery');
+var $ = require('nd-jquery');
 
 var Position = exports,
   VIEWPORT = {
